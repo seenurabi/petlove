@@ -1,0 +1,202 @@
+@media screen and (max-width:576px){
+.cat img {
+    width: 60%;
+}
+.dog img {
+    width: 70%;
+}
+.solutions {
+    width: 100%;
+    float: left;
+    position: relative;
+}
+.solutions img {
+    width: 100%;
+    min-height: 1817px;
+}
+.solutions-box {
+
+    margin-top: 20px;
+}
+.dedicated-part {
+     padding: 0px 14px;
+     margin-top: 0px;
+}
+.dedicated-part p{
+    padding:0px;
+}
+.dedicated-part h2{
+    font-size: 40px;
+}
+.Values {
+    padding: 10px 0px;
+}
+.Values h2 {
+    font-size: 40px;
+}
+.values-1 img {  
+    height: 360px;
+}
+.values-1-text {
+    height: 360px;
+}
+.values-2-text {
+    height: 355px;
+}
+.values-2-text h4 {
+    width: 32%;
+}
+.values-1-text p {
+    margin: 149px 20px;
+}
+.stories-part h2 {
+    padding:inherit;
+    margin-right: 0%;
+    font-size: 40px;
+}
+.values-4-text h4 {
+    width: 41%;
+    margin: 32px 20px;
+}
+.stories-1 {
+    height: 190px;
+}
+.stories-1-text {
+    width: 70%;
+}
+.stories-1-logo {
+    width: 26%;
+    margin-top: 5px;
+}
+.stories-1-logo img {
+    height: 110px;
+}
+.footer-part {   
+    height: 585px;
+}
+.contact-us img {
+    height: 400px;
+}
+.contact-us h3 {
+    margin-top: 30px;
+    font-size: 40px;
+}
+.solutions-part h2 {
+    font-size: 36px;
+    font-weight: bold;
+    font-family: emoji;
+    padding: 0px -24px;
+}
+}
+
+
+
+
+@media screen and (max-width:768px){
+.cat img {
+    width: 60%;
+}
+.dog img {
+    width: 70%;
+}
+.solutions {
+    width: 100%;
+    float: left;
+    position: relative;
+}
+.solutions img {
+    width: 100%;
+    min-height: 1817px;
+}
+.solutions-box {
+
+    margin-top: 20px;
+}
+.dedicated-part {
+     padding: 0px 14px;
+     margin-top: 0px;
+}
+.dedicated-part p{
+    padding:0px;
+}
+.dedicated-part h2{
+    font-size: 40px;
+}
+.Values {
+    padding: 10px 0px;
+}
+.Values h2 {
+    font-size: 40px;
+}
+.values-1 img {  
+    height: 360px;
+}
+.values-1-text {
+    height: 360px;
+}
+.values-2-text {
+    height: 355px;
+}
+.values-2-text h4 {
+    width: 32%;
+}
+.values-1-text p {
+    margin: 149px 20px;
+}
+.stories-part h2 {
+    padding:inherit;
+    margin-right: 0%;
+    font-size: 40px;
+}
+.values-4-text h4 {
+    width: 41%;
+    margin: 32px 20px;
+}
+.stories-1 {
+    height: 190px;
+}
+.stories-1-text {
+    width: 70%;
+}
+.stories-1-logo {
+    width: 26%;
+    margin-top: 5px;
+}
+.stories-1-logo img {
+    height: 110px;
+}
+.footer-part {   
+    height: 585px;
+}
+.contact-us img {
+    height: 400px;
+}
+.contact-us h3 {
+    margin-top: 30px;
+    font-size: 40px;
+}
+.solutions-part h2 {
+    font-size: 36px;
+    font-weight: bold;
+    font-family: emoji;
+    padding: 0px -24px;
+}
+}
+////////
+@media screen and (max-width:992px){
+.solutions-box {
+    background-color: #f11c1ced;
+    border-radius: 10px;
+    padding: 25px 0px;
+    width: 100%;
+    float: left;
+    height: 195px;
+}
+
+
+}
+
+
+
+
+
